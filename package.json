@@ -1,0 +1,22 @@
+{
+  "name": "nodejsrest",
+  "version": "1.0.0",
+  "description": "Alura's Node Rest API's Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoCury/NodeJSRest.git"
+  },
+  "author": "Rodrigo Cury",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RodrigoCury/NodeJSRest/issues"
+  },
+  "homepage": "https://github.com/RodrigoCury/NodeJSRest#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
